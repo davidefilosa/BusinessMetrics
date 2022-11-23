@@ -1,4 +1,6 @@
 # Business Metrics of Yandex Afisha
+### [Detailed Project](https://nbviewer.org/github/davidefilosa/BusinessMetrics/blob/master/BusinessMetricsofYandexAfisha.ipynb)
+
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
